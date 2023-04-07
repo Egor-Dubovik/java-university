@@ -1,0 +1,16 @@
+package main;
+
+import java.util.*;
+
+//Автобусные остановки. На маршруте несколько остановок. На одной
+//остановке может останавливаться несколько автобусов одновременно, но не
+//более заданного числа.
+
+public class MainPZ6 {
+	public static void main(String args[]) throws Exception {
+		    System.out.println("Hello!");
+	}
+}
+
+
+

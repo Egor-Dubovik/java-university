@@ -1,0 +1,13 @@
+package main;
+
+import java.util.*;
+
+
+public class MainPZ6 {
+	public static void main(String args[]) throws Exception {
+		    System.out.println("Hello!");
+	}
+}
+
+
+
